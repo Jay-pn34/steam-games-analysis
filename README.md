@@ -1,6 +1,6 @@
 # Steam Games Analysis
 
-An exploratory data analysis (EDA) project on Steam’s game dataset, collected on **October 15, 2025**. This repository explores game trends, genre popularity, ratings, pricing in INR, and player activity over the years using visualizations like treemaps, bubble charts, and word clouds.
+An exploratory data analysis (EDA) project on Steam’s game dataset, collected on **July 10, 2025**. This repository explores game trends, genre popularity, ratings, pricing in INR, and player activity over the years using visualizations like treemaps, bubble charts, and word clouds.
 
 The analysis provides insights for gamers, developers, and researchers interested in gaming trends and user engagement on the Steam platform.
 

@@ -72,9 +72,9 @@ The dataset is a cleaned version of Steam’s publicly available game data, gath
 
 ## 🔗 Author
 
-* Your Name
+* Jaykumar Patel
 * [GitHub](https://github.com/Jay-pn34)
-* [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jaykumar-patel-6a0b26232/))
+* [LinkedIn](https://www.linkedin.com/in/jaykumar-patel-6a0b26232/)
 
 ---
 
